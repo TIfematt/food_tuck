@@ -1,9 +1,11 @@
-import React from 'react'
+import React from 'react';
+import "./Hero.css";
 
 function Hero() {
   return (
-    <div>
-      
+    <div className='hero'>
+      <h3>My Wishlist</h3>
+      <p>Home {}</p>
     </div>
   )
 }

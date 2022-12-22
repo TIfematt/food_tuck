@@ -1,0 +1,22 @@
+
+.header {
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.header .logo{
+    display: flex;
+}
+.header .nav {
+    display: flex;
+    padding-inline: 20px;
+}
+.navlist {
+    list-style: none;
+    font-weight: 600;
+    font-size: 1rem;
+    font-family: 'Open Sans', sans-serif;
+}
