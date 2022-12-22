@@ -1,0 +1,8 @@
+.bodyg {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.bodyg h3 {
+    color: #F3D340;
+}
